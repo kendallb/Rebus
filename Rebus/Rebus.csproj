@@ -16,7 +16,7 @@
     <RepositoryType>git</RepositoryType>
     <PostBuildEvent></PostBuildEvent>
     <Product>Rebus</Product>
-    <PackageId>Rebus</PackageId>
+    <PackageId>AMain.Rebus</PackageId>
 
     <!-- Optional: Publish the repository URL in the built .nupkg (in the NuSpec <Repository> element) -->
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
