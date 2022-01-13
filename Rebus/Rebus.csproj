@@ -11,6 +11,7 @@
 		<PackageDescription>Rebus is a lean service bus for .NET</PackageDescription>
 		<RepositoryUrl>https://github.com/rebus-org/Rebus</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
+		<PackageId>AMain.Rebus</PackageId>
 
 		<!-- Optional: Publish the repository URL in the built .nupkg (in the NuSpec <Repository> element) -->
 		<PublishRepositoryUrl>true</PublishRepositoryUrl>
